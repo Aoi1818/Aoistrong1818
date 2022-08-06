@@ -1,10 +1,4 @@
-/*
 
-TemplateMo 560 Astro Motion
-
-https://templatemo.com/tm-560-astro-motion
-
-*/
 
 html, body, .page-container {
     height: 100%;
@@ -37,7 +31,7 @@ h2 {
 }
 
 .highlight {
-    color: #2595be;
+    color: #4725be;
 }
 
 .page-container {
@@ -91,7 +85,8 @@ h2 {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    height: 100vh;
+    height: 100vh; 
+
 }
 
 #tm-nav {
@@ -151,13 +146,13 @@ h2 {
 
 .navbar .navbar-nav .nav-item.selected .nav-link,
 .navbar .navbar-nav .nav-item .nav-link:hover {
-    color: #2595be;
-    border-bottom: 1px solid #2595be;
+    color: #4725be;
+    border-bottom: 1px solid #4725be;
 }
 
 .cd-slider-nav li.selected a+.circle,
 .navbar .navbar-nav .nav-item .nav-link:hover+.circle {
-    background-color: #2595be;
+    background-color: #4725be;
 }
 
 .navbar-toggler-icon {
@@ -178,7 +173,7 @@ h2 {
 
 .tm-link-white:hover,
 .tm-link-white:focus {
-    color: #2595be;
+    color: #4725be;
 }
 
 .cd-hero-slider {
@@ -471,7 +466,7 @@ figure.effect-julia:hover p {
 }
 
 .form-control:focus {
-    border-bottom: 1px solid #2595be;
+    border-bottom: 1px solid #4725be;
     outline: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -551,7 +546,7 @@ figure.effect-julia:hover p {
         position: absolute;
         top: 63px;
         right: 0;
-        background: rgb(54 75 96);
+        background: rgb(125, 207, 219);
         border-radius: 5px;
     }
 
