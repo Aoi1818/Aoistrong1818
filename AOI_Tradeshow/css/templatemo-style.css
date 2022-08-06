@@ -87,6 +87,13 @@ h2 {
     background-repeat: no-repeat;
 }
 
+.video-wrap video {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 100vh;
+}
+
 #tm-nav {
     z-index: 1000;
 }
