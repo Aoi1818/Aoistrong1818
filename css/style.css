@@ -89,6 +89,11 @@ h1, h2, h3, h4, h5, h6 {
   clear: both;
 }
 
+.card-container
+padding: ::after: 10
+
+
+
 p {
   margin-bottom: 2em;
 }
@@ -119,6 +124,9 @@ p {
   box-shadow: none !important;
   outline: none !important;
 }
+
+
+
 
 .btn-primary {
   background: #f7c873;
