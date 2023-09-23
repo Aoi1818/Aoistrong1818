@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: 'Lato', sans-serif;
+}
+
+footer {background-color: #aee5f6;
+
+
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    border: 0;
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+}
+
+.image {
+    border: 0;
+    display: block;
+    width: 100%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+}
+
+.header-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #434245;
+    margin: 10px 0;
+}
+
+.body-text {
+    font-size: 18px;
+    line-height: 24px;
+    color: #434245;
+    padding: 0 25px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    background: #12205b;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    border-radius: 3px;
+}
+
+.footer-text {
+    font-size: 16px;
+    line-height: 24px;
+    color: #434245;
+    padding: 2px 5px;
+    margin-top: auto; 
+    text-align: center;
+    font-weight: lighter;
+}
+
+.social-link {
+    color: #2e58ff;
+    text-decoration: none;
+}
+
+.social-icons {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.social-icon {
+    padding: 3px;
+    display: inline-block;
+
+}
+
+.icon {
+    border-radius: 1px;
+    display: block;
+    height: 32px;
+    width: 32px;
+}
+
+.footer-copyright {
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #aee5f6;
+    padding: 10px 25px;
+}
